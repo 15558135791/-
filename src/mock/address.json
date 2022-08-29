@@ -1,0 +1,34 @@
+[
+  {
+    "consignee":"小吴",
+    "fullAddress":"江西省南昌市新建区万达广场1号楼",
+    "id":"1",
+    "isDefault":"1",
+    "phoneNum":"15555555555",
+    "privinceId":"1"
+  },
+   {
+    "consignee":"小园",
+    "fullAddress":"浙江省杭州市萧山区小七工作室",
+    "id":"2",
+    "isDefault":"0",
+    "phoneNum":"15555555551",
+    "privinceId":"5"
+  },
+   {
+    "consignee":"java",
+    "fullAddress":"北京市天安门",
+    "id":"3",
+    "isDefault":"0",
+    "phoneNum":"15555555552",
+    "privinceId":"2"
+  },
+   {
+    "consignee":"开心",
+    "fullAddress":"云南省昆明市万达广场",
+    "id":"4",
+    "isDefault":"0",
+    "phoneNum":"15555555553",
+    "privinceId":"3"
+  }
+]
